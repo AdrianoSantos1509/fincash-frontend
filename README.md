@@ -38,6 +38,7 @@ Acessibilidade
 🎨 Contraste e textos legíveis.
 ⌨️ Navegação por teclado.
 📖 Compatível com leitores de tela.
+
 🤝 Como Contribuir
 Quer ajudar a melhorar o FinCash? Veja nosso guia de contribuição e junte-se ao projeto!
 
