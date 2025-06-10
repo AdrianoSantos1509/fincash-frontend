@@ -4,16 +4,22 @@ Bem-vindo ao FinCash, uma ferramenta web intuitiva para simular investimentos em
 
 
 🎯 Objetivo
+
 O FinCash permite simular investimentos em renda fixa de forma simples e gratuita, sem necessidade de conhecimento avançado. Inspirado no Tesouro Direto, nosso foco é oferecer uma interface amigável, linguagem acessível e simulações realistas.
 
 
 Quem Usa?
 
 🧑‍💻 Iniciantes: Exploram investimentos com segurança.
+
 📈 Investidores experientes: Comparam cenários rapidamente.
+
 🏫 Educadores e planejadores: Usam como ferramenta de ensino.
+
 🏦 Instituições: Integram em treinamentos financeiros.
+
 Problema Resolvido
+
 Simplifica o mercado financeiro, oferecendo transparência e autonomia para decisões de investimento sem depender de instituições.
 
 
