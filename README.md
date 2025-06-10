@@ -20,13 +20,21 @@ Simplifica o mercado financeiro, oferecendo transparência e autonomia para deci
 🚀 Funcionalidades
 
 Simulador: Teste cenários ajustando valor, prazo e taxa.
+
 Dashboard com Gráficos: Visualize resultados e compare aplicações.
+
 Conta de Usuário: Salve simulações e receba notificações por e-mail.
+
 Integração com APIs: Dados atualizados de Selic, IPCA e mais.
+
 Perfis:
+
 Usuário: Simulador, histórico e notificações.
+
 Admin: Painel com estatísticas e configurações.
+
 Obs: Não realiza aportes ou saques reais, apenas simulações.
+
 
 
 🛠️ Requisitos Técnicos
