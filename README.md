@@ -1,71 +1,50 @@
-FinCash - Documentação do Projeto
-1. Contexto e Objetivo
-Propósito Principal
-O FinCash é uma ferramenta web intuitiva e acessível que permite simular investimentos em renda fixa. Seu objetivo é ajudar usuários, de iniciantes a experientes, a entenderem rendimentos, prazos e características desse tipo de investimento, sem necessidade de conhecimento técnico ou cadastro prévio.
-Público-Alvo
+🌟 FinCash - Simulador de Investimentos em Renda Fixa
+Bem-vindo ao FinCash, uma ferramenta web intuitiva para simular investimentos em renda fixa, ajudando desde iniciantes até investidores experientes a entenderem rendimentos com clareza e autonomia.
 
-Investidores iniciantes: Pessoas que desejam explorar opções de renda fixa com clareza.
-Investidores experientes: Usuários que buscam comparar cenários de investimento rapidamente.
-Educadores financeiros e planejadores: Profissionais que utilizam a ferramenta em consultorias ou treinamentos.
-Instituições: Entidades que podem integrar o simulador em suas atividades educativas.
+🎯 Objetivo
+O FinCash permite simular investimentos em renda fixa de forma simples e gratuita, sem necessidade de conhecimento avançado. Inspirado no Tesouro Direto, nosso foco é oferecer uma interface amigável, linguagem acessível e simulações realistas.
 
+Quem Usa?
+🧑‍💻 Iniciantes: Exploram investimentos com segurança.
+📈 Investidores experientes: Comparam cenários rapidamente.
+🏫 Educadores e planejadores: Usam como ferramenta de ensino.
+🏦 Instituições: Integram em treinamentos financeiros.
 Problema Resolvido
-O FinCash simplifica a complexidade do mercado financeiro, oferecendo transparência e autonomia. Ele resolve a insegurança de iniciantes ao investir, permitindo simulações personalizadas que mostram o comportamento do dinheiro ao longo do tempo, sem dependência de instituições financeiras.
-Benchmark
-O site do Tesouro Direto serve como principal referência, inspirando a clareza na apresentação de informações, simuladores interativos e abordagem educativa. O FinCash, porém, busca uma interface mais intuitiva, linguagem simplificada e foco em usuários novatos, expandindo além dos títulos públicos.
+Simplifica o mercado financeiro, oferecendo transparência e autonomia para decisões de investimento sem depender de instituições.
 
-2. Requisitos Funcionais
-Funcionalidades do Usuário
+🚀 Funcionalidades
+Simulador: Teste cenários ajustando valor, prazo e taxa.
+Dashboard com Gráficos: Visualize resultados e compare aplicações.
+Conta de Usuário: Salve simulações e receba notificações por e-mail.
+Integração com APIs: Dados atualizados de Selic, IPCA e mais.
+Perfis:
+Usuário: Simulador, histórico e notificações.
+Admin: Painel com estatísticas e configurações.
+Obs: Não realiza aportes ou saques reais, apenas simulações.
 
-Criar conta: Cadastro opcional para salvar simulações, acessar painel personalizado e receber conteúdos informativos.
-Visualizar carteira simulada: Projeção de rendimentos com base nas simulações criadas.
-Realizar simulações: Ajuste de valores, prazos e tipos de aplicação em renda fixa.
-Receber notificações: E-mails com novidades, dicas, atualizações e lembretes personalizados.
-Aportes/saques reais: Não disponível, pois o foco é educativo e de simulação.
-
-Integrações
-
-APIs externas: Dados atualizados de taxas de juros, indicadores econômicos (Selic, IPCA) e rentabilidade de títulos para simulações realistas.
-
-Perfis de Acesso
-
-Usuário comum: Acesso ao simulador, histórico de simulações e notificações.
-Administrador: Painel exclusivo com estatísticas, configurações e relatórios de uso (futuro).
-
-Funcionalidades Principais
-
-Dashboard com gráficos: Visualização interativa dos resultados das simulações, evolução dos investimentos e comparações entre aplicações.
-Simulador de investimentos: Ferramenta central, gratuita e intuitiva, permitindo ajustes de valor inicial, taxa, periodicidade e prazo.
-
-
-3. Requisitos Não Funcionais
+🛠️ Requisitos Técnicos
 Performance
-
-Tempo de resposta: Carregamento médio inferior a 3 segundos em conexões padrão.
-Disponibilidade: 24/7, com eventuais manutenções fora do horário comercial, anunciadas previamente.
-
+⏱️ Resposta em até 3s.
+🌐 Disponível 24/7 (manutenções com aviso prévio).
 Compatibilidade
-
-Navegadores: Google Chrome, Mozilla Firefox, Microsoft Edge, Safari.
-Dispositivos: Responsivo para desktops, tablets e smartphones (Android e iOS).
-
+Navegadores: Chrome, Firefox, Edge, Safari.
+Dispositivos: Responsivo para desktops, tablets e smartphones.
 Segurança
-
-Criptografia: SSL (HTTPS) para proteger navegação e dados.
-Autenticação: E-mail e senha (sem 2FA inicialmente).
-Proteção: Prevenção contra SQL Injection, XSS e outros ataques comuns.
-Futuro: Possível adição de autenticação em dois fatores.
-
+🔒 HTTPS com criptografia SSL.
+🔐 Login com e-mail/senha.
+🛡️ Proteção contra XSS e SQL Injection.
+Futuro: Autenticação em dois fatores.
 Acessibilidade
+🎨 Contraste e textos legíveis.
+⌨️ Navegação por teclado.
+📖 Compatível com leitores de tela.
+🤝 Como Contribuir
+Quer ajudar a melhorar o FinCash? Veja nosso guia de contribuição e junte-se ao projeto!
 
-Contraste adequado, textos legíveis e navegação por teclado.
-Descrições alternativas para imagens (alt text).
-Compatibilidade com leitores de tela, garantindo acessibilidade para todos.
+📜 Licença
+Licenciado sob a MIT License.
 
+📬 Contato
+Dúvidas ou sugestões? Envie um e-mail para suporte@fincash.com.
 
-4. Como Contribuir
-Interessado em contribuir para o FinCash? Confira nosso guia de contribuição no arquivo CONTRIBUTING.md e participe do desenvolvimento!
-5. Licença
-Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para mais detalhes.
-6. Contato
-Para dúvidas, sugestões ou suporte, entre em contato pelo e-mail: suporte@fincash.com.
+Mostrar na barra lateral
