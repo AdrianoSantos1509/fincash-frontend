@@ -47,4 +47,3 @@ Licenciado sob a MIT License.
 📬 Contato
 Dúvidas ou sugestões? Envie um e-mail para suporte@fincash.com.
 
-Mostrar na barra lateral
